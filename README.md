@@ -34,7 +34,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Project Report
 
-Report can be viewed at [**https://amolpol98.github.io/Creating-Customer-Segments/**](https://amolpol98.github.io/Creating-Customer-Segments/).
+Report can be viewed at [**https://amolpol98.github.io/customer_segment/**](https://amolpol98.github.io/customer_segment/).
 
 
 ## Data
